@@ -9,6 +9,7 @@ export const StyledSectionDiv = styled.div`
 
 export const StyledSectionTitle = styled.h2`
   font-size: 60px;
+  font-size: 60px;
   color: white;
   margin: 10px;
 `;
